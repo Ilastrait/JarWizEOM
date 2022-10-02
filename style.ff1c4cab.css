@@ -50,7 +50,7 @@ header h1 {
   right: 0;
   width: 100vw;
   height: 100vh;
-  background-color: #500000;
+  background-color: #100000;
 }
 .loading p {
   position: absolute;
@@ -78,7 +78,7 @@ main .started {
 main .started button {
   width: 35px;
   height: 35px;
-  background-color: #fdfdfd;
+  background-color: #ddd;
   border-radius: 50%;
   border: none;
   transition: 0.2s;
