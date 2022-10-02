@@ -73,8 +73,8 @@ let detailsImage = [
         name: "LA SOUFFRANCE MÈNE\n AU CÔTÉ OBSCUR"
     },
     {
-        url: "https://www.youtube.com/watch?v=k21ONzrwVLY",
-        name: "Lord Vader: A Star\n Wars Story"
+        url: "https://www.jarwiz.org/",
+        name: "JarWiz"
     },
     {
         url: "https://www.youtube.com/watch?v=JucYYmeh_QY",
