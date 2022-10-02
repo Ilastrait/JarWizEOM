@@ -41,8 +41,8 @@ let lastPosition = {
 }
 let detailsImage = [
     {
-        url: "https://www.youtube.com/watch?v=87MPqPynrXc",
-        name: "Transformation Dark Vador\n - Anakin devient Dark Vador"
+        url: "https://www.youtube.com/watch?v=WXzcuJET4yw&ab_channel=NASAGoddard",
+        name: "American Sattelites"
     },
     {
         url: "https://www.youtube.com/watch?v=FX8rsh83bGk",
