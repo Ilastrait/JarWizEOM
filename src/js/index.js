@@ -246,7 +246,7 @@ let models = []
 gltfLoader.load(
     "models/Dark_vador/scene.gltf",
     (gltf) => {
-        gltf.scene.scale.set(8, 8, 8)
+        gltf.scene.scale.set(12, 12, 12)
         gltf.scene.position.y = initialPositionMeshY
         gltf.scene.rotation.y = initialRotationMeshY
 
